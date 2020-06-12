@@ -1,0 +1,32 @@
+1.Question 1
+Which of the following is a comment in Python?
+	Ans:	# This is a test
+2.Question 2
+In the following code,{>>>x = 42}
+What is "x"?
+	Ans:	A variable
+3.Question 3
+Which of the following variables is the "most mnemonic"?
+	Ans:	hours
+4.Question 4
+Which of the following is not a Python reserved word?
+	Ans:	speed
+5.Question 5
+Assume the variable x has been initialized to an integer value (e.g., x = 3). What does the following statement do? {>>>x = x + 2}
+	Ans:	Increase the speed of the program by a factor of 2
+6.Question 6
+Which of the following elements of a mathematical expression in Python is evaluated first?
+	Ans:	Parentheses ( )
+7.Question 7
+What is the value of the following expression: {>>>42 % 10}
+#Hint - the "%" is the remainder operator
+	Ans:	2
+8.Question 8
+What will be the value of x after the following statement executes: {>>>x = 1 + 2 * 3 - 8 / 4}
+	Ans:	5.0
+9.Question 9
+What will be the value of x when the following statement is executed:{>>>x = int(98.6)}
+	Ans:	98
+10.Question 10
+What does the Python input() function do?
+	Ans:	Pause the program and read data from the user
